@@ -4,7 +4,7 @@ Les variables d’environnement sont accessibles de plusieurs manières :
 
  
 
-• Via le lecteur PowerShell 
+• __Via le lecteur PowerShell
 
 
 PS C:\Windows\system32> Get-ChildItem env:U* 
@@ -24,7 +24,7 @@ USERDOMAIN                     DESKTOP-EMG1VR0
 
  
 
-• Via une variable PowerShell 
+• __Via une variable PowerShell 
 
 
 PS C:\Windows\system32> $env:COMPUTERNAME 
@@ -39,7 +39,7 @@ PS C:\Windows\system32>
 
  
 
-• Via l’interpréteur traditionnel (méthode peu utilisée et moyenne mais existante) 
+• __Via l’interpréteur traditionnel (méthode peu utilisée et moyenne mais existante) 
 
 
 
