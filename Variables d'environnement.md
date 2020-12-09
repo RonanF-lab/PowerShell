@@ -10,9 +10,7 @@ Les variables d’environnement sont accessibles de plusieurs manières :
 PS C:\Windows\system32> Get-ChildItem env:U* 
   
 
-Name                           Value 
-
-----                           ----- 
+Name                                           Value 
 
 USERPROFILE                    C:\Users\33669 
 
