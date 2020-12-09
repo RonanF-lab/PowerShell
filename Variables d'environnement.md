@@ -42,6 +42,8 @@ PS C:\Windows\system32>
 • Via l’interpréteur traditionnel (méthode peu utilisée et moyenne mais existante) 
 
 
+
+
 PS C:\Windows\system32> cmd /c set U 
 
 USERDOMAIN=DESKTOP-EMG1VR0 
