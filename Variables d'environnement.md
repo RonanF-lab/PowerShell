@@ -6,8 +6,8 @@ Les variables d’environnement sont accessibles de plusieurs manières :
 
 • Via le lecteur PowerShell 
 
-PS C:\Windows\system32> Get-ChildItem env:U* 
 
+PS C:\Windows\system32> Get-ChildItem env:U* 
   
 
 Name                           Value 
@@ -26,6 +26,7 @@ USERDOMAIN                     DESKTOP-EMG1VR0
 
 • Via une variable PowerShell 
 
+
 PS C:\Windows\system32> $env:COMPUTERNAME 
 
 DESKTOP-EMG1VR0 
@@ -40,6 +41,7 @@ PS C:\Windows\system32>
 
 • Via l’interpréteur traditionnel (méthode peu utilisée et moyenne mais existante) 
 
+
 PS C:\Windows\system32> cmd /c set U 
 
 USERDOMAIN=DESKTOP-EMG1VR0 
@@ -51,6 +53,7 @@ USERNAME=33669
 USERPROFILE=C:\Users\33669 
 
  
+
 
 Ces variables dynamiques sont globales au système, permettant le transfert d'informations entre différents processus exécutés par Windows. Les informations qu'ils fournissent dépendent de la configuration de Windows sur le poste de travail. 
 
