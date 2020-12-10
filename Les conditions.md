@@ -10,13 +10,13 @@ Powershell prend en charge les opérateurs de logique conditionnelle standard, t
 
 La syntaxe d'une structure de condition If simple est la suivante : 
 
-If(condition)  
+__If(condition)__  
 
-{  
+__{__  
 
-  bloc de code (instructions) 
+  __bloc de code (instructions)__ 
 
-} 
+__}__ 
 
 La section "Conditions" vous permettra de tester une ou plusieurs conditions. Si la condition est vraie, le bloc de code sera exécuté. 
 
