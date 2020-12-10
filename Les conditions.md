@@ -26,17 +26,17 @@ Pour mieux comprendre je vais vous montrer des exemples
 
 Nous allons commencer avec quelque chose basique, si notre $texte est égal à “Traduire bonjour” alors “Hello” sera imprimé. 
 
-PS C:\Windows\system32> $texte = "Traduire Bonjour" 
+__PS C:\Windows\system32> $texte = "Traduire Bonjour"__ 
 
-If($texte -eq "Traduire Bonjour")  
+__If($texte -eq "Traduire Bonjour")__
 
-{  
+__{__  
 
-  Write-Output "Hello" 
+  __Write-Output "Hello"__ 
 
-} 
+__}__ 
 
-Hello 
+__Hello__ 
 
 Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bien égale à "Traduire Bonjour". 
 
@@ -46,23 +46,22 @@ Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bie
 
 Maintenant, nous allons ajouter une condition supplémentaire à cette déclaration : si le $texte est bien égale à "Traduire Bonjour", alors nous écrirons "Hello". Sinon, c'est là que Else va jouer son rôle et imprimer la deuxième option “Traduction Impossible” 
 
-PS C:\Windows\system32> $texte = "Pas traduire Bonjour" 
+__PS C:\Windows\system32> $texte = "Pas traduire Bonjour"__ 
 
   
+__If($texte -eq "Traduire Bonjour")__  
 
-If($texte -eq "Traduire Bonjour")  
+__{__  
 
-{  
+  __Write-Output "Hello"__ 
 
-  Write-Output "Hello" 
+__}else{__ 
 
-}else{ 
+  __Write-Output "Traduction impossible"__ 
 
-  Write-Output "Traduction impossible" 
+__}__ 
 
-} 
-
-Traduction impossible 
+__Traduction impossible__ 
 
  
 
