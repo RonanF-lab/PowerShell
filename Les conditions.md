@@ -4,7 +4,7 @@
 
 Powershell prend en charge les opérateurs de logique conditionnelle standard, tout comme de nombreux langages de programmation. Ceux-ci permettent d'exécuter certaines fonctions ou commandes dans certaines circonstances. 
 
-Condition If 
+# Condition If 
 
  
 
@@ -42,7 +42,7 @@ Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bie
 
  
 
-Condition If / Else 
+# Condition If / Else 
 
 Maintenant, nous allons ajouter une condition supplémentaire à cette déclaration : si le $texte est bien égale à "Traduire Bonjour", alors nous écrirons "Hello". Sinon, c'est là que Else va jouer son rôle et imprimer la deuxième option “Traduction Impossible” 
 
@@ -68,4 +68,4 @@ Traduction impossible
 
 Dans le cas présent notre $texte n’est pas égale à celui dans notre condition donc le Else rentre en jeu et “Traduction impossible” va être imprimé. 
 
-Condition If / ElseIf / Else 
+# Condition If / ElseIf / Else 
