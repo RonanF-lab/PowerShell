@@ -22,7 +22,10 @@ Les applets de commande se composent toujours de verbes (ou de mots qui agissent
 
 Liste de quelques verbes utilisables 
 
-- Add permet d'ajouter des données ou informations sur le nom qui le suit ; 
+- Add permet d'ajouter des données ou informations sur le nom qui le suit ;
+```
+dzqdzq
+```
 
 - Get permet d'obtenir des données ou informations sur le nom qui le suit ; 
 
