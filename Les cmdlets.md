@@ -1,4 +1,4 @@
-# PowerShell Cmdlets 
+# Les Cmdlets PowerShell 
 
  
 
@@ -14,7 +14,7 @@ Les applets de commande (Cmdlets) sont des commandes PowerShell avec des fonctio
 
 - Si vous voulez utiliser plusieurs cmdlets dans une même chaîne, vous devez les séparer par un point-virgule (;). 
 
-### Format de cmdlet 
+### Les format des cmdlets 
 
  
 
