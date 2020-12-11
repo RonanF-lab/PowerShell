@@ -26,17 +26,25 @@ Pour mieux comprendre je vais vous montrer des exemples
 
 Nous allons commencer avec quelque chose basique, si notre $texte est égal à “Traduire bonjour” alors “Hello” sera imprimé. 
 
-__PS C:\Windows\system32> $texte = "Traduire Bonjour"__ 
+```
+PS C:\Windows\system32> $texte = "Pas traduire Bonjour" 
 
-__If($texte -eq "Traduire Bonjour")__
+  
 
-__{__  
+If($texte -eq "Traduire Bonjour")  
 
-  __Write-Output "Hello"__ 
+{  
 
-__}__ 
+  Write-Output "Hello" 
 
-__Hello__ 
+}else{ 
+
+  Write-Output "Traduction impossible" 
+
+} 
+
+__Traduction impossible__ 
+```
 
 Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bien égale à "Traduire Bonjour". 
 
