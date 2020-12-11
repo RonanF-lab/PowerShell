@@ -1,4 +1,4 @@
-#PowerShell Cmdlets 
+# PowerShell Cmdlets 
 
  
 
@@ -14,7 +14,7 @@ Les cmdlets sont « insensibles à la casse ». C’est-à-dire que les majuscul
 
 Si vous voulez utiliser plusieurs cmdlets dans une même chaîne, vous devez les séparer par un point-virgule (;). 
 
-###Format de cmdlet 
+### Format de cmdlet 
 
  
 
@@ -22,16 +22,16 @@ Les applets de commande se composent toujours de verbes (ou de mots qui agissent
 
 Liste de quelques verbes utilisables 
 
-Add permet d'ajouter des données ou informations sur le nom qui le suit ; 
+- Add permet d'ajouter des données ou informations sur le nom qui le suit ; 
 
-Get permet d'obtenir des données ou informations sur le nom qui le suit ; 
+- Get permet d'obtenir des données ou informations sur le nom qui le suit ; 
 
-Clear permet de réinitialiser un affichage ou une variable ; 
+- Clear permet de réinitialiser un affichage ou une variable ; 
 
-Import et Export permet d'importer/exporter des fichiers de commandes ou des alias ; 
+- Import et Export permet d'importer/exporter des fichiers de commandes ou des alias ; 
 
-New permet de créer de nouveaux objets ou variable ; 
+- New permet de créer de nouveaux objets ou variable ; 
 
-Set permet de définir des données ou informations sur le nom qui le suit ; 
+- Set permet de définir des données ou informations sur le nom qui le suit ; 
 
-Write permet d'écrire des données ou informations sur le nom qui le suit et peut agir comme le compte-rendu d'une commande. 
+- Write permet d'écrire des données ou informations sur le nom qui le suit et peut agir comme le compte-rendu d'une commande. 
