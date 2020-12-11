@@ -1,3 +1,7 @@
+# Le PowerShell c'est quoi ?
+
+-----
+
 ## Le PowerShell 
 
  
@@ -11,3 +15,9 @@ Windows PowerShell est un interpréteur de commandes conçu pour simplifier la g
  
 
 À l'aide de PowerShell, vous pouvez facilement obtenir des données sur les paramètres système courants, modifier les objets, gérer les services et gérer l'accès au système (y compris le système de fichiers). La maîtrise des scripts PowerShell peut vous faire gagner du temps pour de nombreuses fonctions de gestion sans avoir à acheter ou à implémenter des outils tiers. 
+
+## Une date à retenir  
+
+ 
+
+En effet dans l’histoire de PowerShell il y a un grand nombre de dates à énumérées mais s'il y’en a bien une à retenir c’est la __sortie officielle de Windows PowerShell en 2006__ en effet c’est cette année-là que Microsoft annonce la disponibilité de Windows PowerShell. Après cette date les autres qui suivirent sont pour la plupart des dates qui annonce la disponibilité de Windows PowerShell sur les futures versions de Windows (7/8-8.1/10). 
