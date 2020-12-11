@@ -7,4 +7,4 @@
 
 ### [Les commandes](https://github.com/RonanF-lab/PowerShell/blob/main/La%20structure%20des%20commandes.md#les-commandes)
 * [La structure des commandes](https://github.com/RonanF-lab/PowerShell/blob/main/La%20structure%20des%20commandes.md#la-structure-des-commandes)
-* [La structure des commandes](https://github.com/RonanF-lab/PowerShell/blob/main/La%20structure%20des%20commandes.md#les-verbes)
+* [Les verbes](https://github.com/RonanF-lab/PowerShell/blob/main/La%20structure%20des%20commandes.md#les-verbes)
