@@ -73,32 +73,30 @@ Dans l’exemple précédent nous agissons seulement dans le cas où $texte est 
 
 Mais avec le ElseIf nous allons pouvoir ajouter une deuxième possibilité ou si l’utilisateur écrit “Traduire Holà en français” alors “Bonjour” pourra aussi être imprimé. 
 
-__PS C:\Windows\system32> $texte = "Traduire Hola en français"__ 
+```
+PS C:\Windows\system32> $texte = "Traduire Hola en français" 
 
  
 
-__If($texte -eq "Traduire Bonjour")__ 
+If($texte -eq "Traduire Bonjour") 
 
-__{__ 
+{ 
 
-   __Write-Output "Hello"__ 
+   Write-Output "Hello" 
 
-__}elseif($texte -eq "Traduire Hola en français")__ 
+}elseif($texte -eq "Traduire Hola en français") 
 
-__{__
+{ 
 
-   __Write-Output "Bonjour"__ 
+   Write-Output "Bonjour" 
 
-__}else{__ 
+}else{ 
 
-   __Write-Output "Traduction impossible"__ 
+   Write-Output "Traduction impossible" 
 
-__}__ 
+} 
 
-> Bonjour
+Bonjour 
+```
 
 Dans l’exemple que je viens de vous montrer le texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf donc comme prévu on obtient Bonjour après exécution. 
-
-```
-dz
-```
