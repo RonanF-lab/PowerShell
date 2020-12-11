@@ -20,13 +20,13 @@ If(condition)
 } 
 ```
 
-La section "Conditions" vous permettra de tester une ou plusieurs conditions. Si la condition est vraie, le bloc de code sera exécuté. 
+La section "Conditions" vous permettra de tester une ou plusieurs conditions. Si (If) la condition est vraie, le bloc de code sera exécuté. 
 
  
 
 Pour mieux comprendre je vais vous montrer des exemples 
 
-Nous allons commencer avec quelque chose basique, si notre $texte est égal à “Traduire bonjour” alors “Hello” sera imprimé. 
+Nous allons commencer avec quelque chose basique, si (If) notre $texte est égal à “Traduire bonjour” alors “Hello” sera imprimé. 
 
 ```
 PS C:\Windows\system32> $texte = "Traduire Bonjour" 
@@ -48,7 +48,7 @@ Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bie
 
 ### Condition If / Else 
 
-Maintenant, nous allons ajouter une condition supplémentaire à cette déclaration : si le $texte est bien égale à "Traduire Bonjour", alors nous écrirons "Hello". Sinon, c'est là que Else va jouer son rôle et imprimer la deuxième option “Traduction Impossible” 
+Maintenant, nous allons ajouter une condition supplémentaire à cette déclaration : si (If) le $texte est bien égale à "Traduire Bonjour", alors nous écrirons "Hello". Sinon (Else), c'est là que Else va jouer son rôle et imprimer la deuxième option “Traduction Impossible” 
 
 ```
 PS C:\Windows\system32> $texte = "Pas traduire Bonjour" 
@@ -76,9 +76,9 @@ Dans le cas présent notre $texte n’est pas égale à celui dans notre conditi
 
 ### Condition If / ElseIf / Else 
 
-Dans l’exemple précédent nous agissons seulement dans le cas où $texte est égal à “Traduire Bonjour” et si ce n’est pas le cas avec le Else nous renvoyons juste à “Traduction impossible”. 
+Dans l’exemple précédent nous agissons seulement dans le cas où $texte est égal à “Traduire Bonjour” et si ce n’est pas le cas avec le Else (sinon) nous renvoyons juste à “Traduction impossible”. 
 
-Mais avec le ElseIf nous allons pouvoir ajouter une deuxième possibilité ou si l’utilisateur écrit “Traduire Holà en français” alors “Bonjour” pourra aussi être imprimé. 
+Mais avec le ElseIf (sinon si) nous allons pouvoir ajouter une deuxième possibilité ou si l’utilisateur écrit “Traduire Holà en français” alors “Bonjour” pourra aussi être imprimé. 
 
 ```
 PS C:\Windows\system32> $texte = "Traduire Hola en français" 
@@ -106,4 +106,4 @@ If($texte -eq "Traduire Bonjour")
 Bonjour 
 ```
 
-Dans l’exemple que je viens de vous montrer le $texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf donc comme prévu on obtient Bonjour après exécution. 
+Dans l’exemple que je viens de vous montrer le $texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf (sinon si) donc comme prévu on obtient Bonjour après exécution. 
