@@ -106,4 +106,4 @@ If($texte -eq "Traduire Bonjour")
 Bonjour 
 ```
 
-Dans l’exemple que je viens de vous montrer le texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf donc comme prévu on obtient Bonjour après exécution. 
+Dans l’exemple que je viens de vous montrer le $texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf donc comme prévu on obtient Bonjour après exécution. 
