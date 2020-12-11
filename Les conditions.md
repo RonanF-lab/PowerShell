@@ -68,3 +68,37 @@ __Traduction impossible__
 Dans le cas présent notre $texte n’est pas égale à celui dans notre condition donc le Else rentre en jeu et “Traduction impossible” va être imprimé. 
 
 ### Condition If / ElseIf / Else 
+
+Dans l’exemple précédent nous agissons seulement dans le cas où $texte est égal à “Traduire Bonjour” et si ce n’est pas le cas avec le Else nous renvoyons juste à “Traduction impossible”. 
+
+Mais avec le ElseIf nous allons pouvoir ajouter une deuxième possibilité ou si l’utilisateur écrit “Traduire Holà en français” alors “Bonjour” pourra aussi être imprimé. 
+
+__PS C:\Windows\system32> $texte = "Traduire Hola en français"__ 
+
+ 
+
+__If($texte -eq "Traduire Bonjour")__ 
+
+__{__ 
+
+   __Write-Output "Hello"__ 
+
+__}elseif($texte -eq "Traduire Hola en français")__ 
+
+__{__
+
+   __Write-Output "Bonjour"__ 
+
+__}else{__ 
+
+   __Write-Output "Traduction impossible"__ 
+
+__}__ 
+
+> Bonjour
+
+Dans l’exemple que je viens de vous montrer le texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf donc comme prévu on obtient Bonjour après exécution. 
+
+```
+dz
+```
