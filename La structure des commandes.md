@@ -8,7 +8,7 @@ Dans le monde de PowerShell les commandes sont tous le temps constituées d’un
 
 Le préfixe des cmdlets est appelé verbe même s'il n’en est pas un et il va servir à déterminer l’action à effectuer sur les entités désignées dans la phrase. 
 
- __Liste des verbes utilisables__ 
+ __Liste de quelques verbes utilisables__ 
 
 - Add permet d'ajouter des données ou informations sur le nom qui le suit ; 
 
