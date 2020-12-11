@@ -4,15 +4,15 @@
 
 Les applets de commande (Cmdlets) sont des commandes PowerShell avec des fonctions prédéfinies, telles que des opérateurs dans les langages de programmation. Voici quelques informations importantes sur les applets de commande : 
 
-Il existe des cmdlets système, utilisateur et personnalisés. 
+- Il existe des cmdlets système, utilisateur et personnalisés. 
 
-Les cmdlets fournissent des résultats sous forme d’objet ou de tableau d’objets. 
+- Les cmdlets fournissent des résultats sous forme d’objet ou de tableau d’objets. 
 
-Les cmdlets peuvent obtenir des données à analyser ou transférer des données vers un autre cmdlet par le biais de canaux (je reviendrai sur ces canaux – ou pipes – dans un instant). 
+- Les cmdlets peuvent obtenir des données à analyser ou transférer des données vers un autre cmdlet par le biais de canaux (je reviendrai sur ces canaux – ou pipes – dans un instant). 
 
-Les cmdlets sont « insensibles à la casse ». C’est-à-dire que les majuscules et minuscules n’ont aucune importance, vous pouvez tout aussi bien taper « Get-ADUser », « get-aduser » ou « gEt-AdUsEr ». 
+- Les cmdlets sont « insensibles à la casse ». C’est-à-dire que les majuscules et minuscules n’ont aucune importance, vous pouvez tout aussi bien taper « Get-ADUser », « get-aduser » ou « gEt-AdUsEr ». 
 
-Si vous voulez utiliser plusieurs cmdlets dans une même chaîne, vous devez les séparer par un point-virgule (;). 
+- Si vous voulez utiliser plusieurs cmdlets dans une même chaîne, vous devez les séparer par un point-virgule (;). 
 
 ### Format de cmdlet 
 
