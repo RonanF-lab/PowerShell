@@ -20,7 +20,7 @@ Les applets de commande (Cmdlets) sont des commandes PowerShell avec des fonctio
 
 Les applets de commande se composent toujours de verbes (ou de mots qui agissent comme des verbes) et d’un nom, séparés d’un tiret (c'est la règle « verbe-nom »). Voici quelques exemples de verbes : 
 
-Liste de quelques verbes utilisables 
+### Liste de quelques verbes utilisables 
 
 - Add permet d'ajouter des données ou informations sur le nom qui le suit ;
 ```
