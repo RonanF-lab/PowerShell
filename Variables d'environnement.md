@@ -6,7 +6,7 @@ Les variables d’environnement sont accessibles de plusieurs manières :
 
 • __Via le lecteur PowerShell__
 
-
+```
 PS C:\Windows\system32> Get-ChildItem env:U* 
   
 
@@ -20,11 +20,11 @@ USERDOMAIN_ROAMINGPROFILE      DESKTOP-EMG1VR0
 
 USERDOMAIN                     DESKTOP-EMG1VR0 
 
- 
+````
 
 • __Via une variable PowerShell__ 
 
-
+````
 PS C:\Windows\system32> $env:COMPUTERNAME 
 
 DESKTOP-EMG1VR0 
@@ -34,14 +34,13 @@ PS C:\Windows\system32>
  $env:USERDOMAIN_ROAMINGPROFILE                                                                  
 
  DESKTOP-EMG1VR0 
-
+````
  
 
 • __Via l’interpréteur traditionnel (méthode peu utilisée et moyenne mais existante)__ 
 
 
-
-
+````
 PS C:\Windows\system32> cmd /c set U 
 
 USERDOMAIN=DESKTOP-EMG1VR0 
@@ -51,7 +50,7 @@ USERDOMAIN_ROAMINGPROFILE=DESKTOP-EMG1VR0
 USERNAME=33669 
 
 USERPROFILE=C:\Users\33669 
-
+````
  
 
 
