@@ -20,5 +20,5 @@ Windows PowerShell est un interpréteur de commandes conçu pour simplifier la g
 
 En effet dans l’histoire de PowerShell il y a un grand nombre de dates à énumérées mais s'il y’en a bien une à retenir c’est la __sortie officielle de Windows PowerShell en 2006__ en effet c’est cette année-là que Microsoft annonce la disponibilité de Windows PowerShell. Après cette date les autres qui suivirent sont pour la plupart des dates qui annonce la disponibilité de Windows PowerShell sur les futures versions de Windows (7/8-8.1/10). 
 
-- [Direction les Cmdlets PowerShell ?](https://github.com/RonanF-lab/PowerShell#les-cmdlets-powershell)
+- [Direction les Cmdlets PowerShell ?](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20cmdlets.md#a-savoir-sur-les-cmdlets)
 - [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
