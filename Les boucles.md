@@ -1,5 +1,5 @@
-# Les boucles 
-Il existe plusieurs types de boucle mais malgrès ça le but reste le même, une boucle est une séquence d'instructions qui sont exécutées en continu et à plusieurs reprises jusqu'à ce qu'une certaine condition soit atteinte. Elles vous permettent d'écrire des instructions très simples qui peuvent être exécutées à plusieurs reprises pour produire de meilleurs résultats.
+# Les boucles For
+Il existe plusieurs types de boucle mais malgrès ça le but reste le même, ces blocs de code sont conçus pour exécuter plusieurs itérations du même ensemble d'instructions. Cependant, ils ont besoin d'une instruction indiquant la condition de sortie, sinon ils écriront une boucle infinie.
 
 ### Boucles For
 
@@ -11,7 +11,7 @@ For(<état initial>;<condition de répétition>;<incrémentation>)
 }
 
 ```
-__Exemple d'utilisation de boucle For__
+__Exemple d'utilisation de boucles For__
 
 Dans cette exemple nous allons dire que la variable i est égale à 2  et que tant qu'elle sera inférieur à 6 alors nous augmenterons de 1 jusqu'à ce que i soit égale à 
 ```
@@ -42,8 +42,3 @@ PS C:\Windows\system32> $Tab = 2..6
 5
 6
 ```
-
-
-
-
-
