@@ -1,11 +1,17 @@
 # Scripts de gestion des comptes utilisateurs
  
 __Pour ce premier script le  but était de réaliser les actions suivantes__
+
 __- de créer des utilisateurs__
+
 __- de modifier des utilisateurs__
+
 __- de supprimer des utilisateurs__
+
 __- de voir tous les utilisateurs__
+
 __- de faire une recherche sur l'existence d'un utilisateur en particulier__
+
 ```
 #Selection de l'action à réaliser
 $choose = Read-Host -prompt('Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
