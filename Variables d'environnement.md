@@ -31,7 +31,7 @@ DESKTOP-EMG1VR0
 
 PS C:\Windows\system32> $env:USERDOMAIN_ROAMINGPROFILE                                                                  
 
- DESKTOP-EMG1VR0 
+DESKTOP-EMG1VR0 
 ````
  
 
