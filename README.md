@@ -29,3 +29,9 @@
     2.[Les boucles Foreach](https://github.com/RonanF-lab/PowerShell/blob/main/La%20structure%20des%20scripts/Les%20boucles%20For.md#boucles-foreach)
 
 ### Projets Shell
+
+### Avis sur le projet 
+__Pour moi ce projet a été plutôt bénéfique, il m'a permis de bien comprendre le PowerShell car pour le faire j'ai du faire un assez grand nombre de recherches et accumuler un grand nombre d'informations, ce qui permet de rentrer en profondeur dans plusieurs parties du sujet. Malgrès un début assez difficile à cause de problème personnel le sujet à réussi à me motiver et à passer outre mes soucis.__
+
+### Méthodologie employée
+__Pour ce projet la méthodologie était plutôt importante, en effet avec ce type de projet il faut faire attention car le nombre d'informations à disposition sur internet est assez important et on a vite fait des totalement se perdre à force de vouloir en récupérer trop. Personnellement j'ai d'abord fait des recherches sur le sujet pour dégrossir la chose, puis une fois que j'y voyais plus clair j'ai faits un sommaire avec différents points qui me semblaient important à exploiter et sur lesquels j'avais besoin de trouver des informations.__
