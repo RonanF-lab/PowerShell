@@ -57,3 +57,5 @@ Ces variables dynamiques sont globales au système, permettant le transfert d'in
 Prenons un exemple simple, en utilisant la variable $ env: USERNAME : Cela retournera le nom du profil de l'utilisateur connecté. Si vous utilisez un autre compte utilisateur sur un autre post le nom retourné y sera différent. 
 
 Par conséquent, il est préférable d'utiliser autant que possible les variables d'environnement pour les scripts PowerShell qui risquent de s'exécuter sur des postes de travail avec des configurations complètement différentes. 
+
+- [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
