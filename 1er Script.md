@@ -128,4 +128,4 @@ Name   Enabled Description
 azerty True               
 ```
 
-Comme je vous l'ai montré avec les différents blocs de ce code nous pouvons bien créer un utilisateur, le supprimer, le modifier, voir la liste de tous les utilisateurs et regarder les informations spécifiques sur un utilisateur spécifique.
+__Comme je vous l'ai montré avec les différents blocs de ce code nous pouvons bien créer un utilisateur, le supprimer, le modifier, voir la liste de tous les utilisateurs et regarder les informations spécifiques sur un utilisateur spécifique.__
