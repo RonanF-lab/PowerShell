@@ -1,16 +1,22 @@
 # Scripts de gestion des comptes utilisateurs
+
+### Pourquoi faire ? 
  
-__Pour ce premier script le  but était de réaliser les actions suivantes__
+Pour ce premier script le  but était de réaliser les actions suivantes
 
-__- de créer des utilisateurs__
+- de créer des utilisateurs
 
-__- de supprimer des utilisateurs__
+- de supprimer des utilisateurs
 
-__- de modifier des utilisateurs__
+- de modifier des utilisateurs
 
-__- de voir tous les utilisateurs__
+- de voir tous les utilisateurs
 
-__- de faire une recherche sur l'existence d'un utilisateur en particulier__
+- de faire une recherche sur l'existence d'un utilisateur en particulier
+
+### Le code complet
+
+Pour que vous ayez une meilleure compréhension des différentes parties de mon code je les ai commenté et après vous avoir montré ça je vais vous montrer comment agissent les différents blocs en les exécutant.
 
 ```
 #Selection de l'action à réaliser
@@ -45,3 +51,80 @@ elseif ($choose -eq 5){
     Get-LocalUser -Name $infoname
 }
 ```
+
+## Exemple exécution des différent blocs
+
+### Premier bloc
+Le premier bloc sert à demander dans la console quelle action l'utilisateur veut effectuer: 
+```
+PS C:\Windows\system32> E:\Tp 1.ps1
+Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
+ 4 = voir tout les utilisateurs, 5 = faire une recherche sur un utilisateur : 
+```
+
+### Deuxième bloc
+
+Le deuxième bloc lui va servir à créer un utilisateur et lui donner un mot de passe:
+```
+PS C:\Windows\system32> E:\Tp 1.ps1
+Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
+ 4 = voir tout les utilisateurs, 5 = faire une recherche sur un utilisateur : 1
+Quel sera le nom du nouvel utilisateur ? : Azerty
+applet de commande New-LocalUser à la position 1 du pipeline de la commande
+Fournissez des valeurs pour les paramètres suivants :
+
+Name   Enabled Description
+----   ------- -----------
+Azerty True   
+```
+
+### Troisième bloc
+Le troisième bloc sert lui à supprimer un utilisateur:
+```
+PS C:\Windows\system32> E:\Tp 1.ps1
+Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
+ 4 = voir tout les utilisateurs, 5 = faire une recherche sur un utilisateur : 2
+Quel utilisateur voulez-vous supprimer ? : azerty
+```
+
+### Quatrième bloc
+Le quatrième bloc sert lui à modifier un utilisateur:
+```
+PS C:\Windows\system32> E:\Tp 1.ps1
+Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
+ 4 = voir tout les utilisateurs, 5 = faire une recherche sur un utilisateur : 3
+Quel est le nom d'utilisateur que vous souhaitez modifier ? : azert
+Quel nouveau nom voulez vous donnez à votre utilisateur ? : azerty
+```
+
+### Cinquième bloc
+Le cinquième bloc sert lui à avoir la liste de tous les utilisateurs:
+```
+PS C:\Windows\system32> E:\Tp 1.ps1
+Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
+ 4 = voir tout les utilisateurs, 5 = faire une recherche sur un utilisateur : 4
+
+Name               Enabled Description                                                                                               
+----               ------- -----------                                                                                               
+33669              True                                                                                                              
+Administrateur     False   Compte d’utilisateur d’administration                                                                     
+azerty             True                                                                                                              
+DefaultAccount     False   Compte utilisateur géré par le système.                                                                   
+Invité             False   Compte d’utilisateur invité                                                                               
+Ronan              True                                                                                                              
+WDAGUtilityAccount False   Compte d’utilisateur géré et utilisé par le système pour les scénarios Windows Defender Application Guard.
+```
+
+### Sixième bloc
+Le sixième bloc sert lui à avoir des informations sur un utilisateur spécifique:
+```
+PS C:\Windows\system32> E:\Tp 1.ps1
+Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
+ 4 = voir tout les utilisateurs, 5 = faire une recherche sur un utilisateur : 5
+Quel est le nom de l'utilisateur sur qui vous souhaitez avoir des informations ? : azerty
+
+Name   Enabled Description
+----   ------- -----------
+azerty True               
+```
+
