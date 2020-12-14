@@ -22,3 +22,4 @@
 * [Les boucles](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20boucles%20For.md#les-boucles-for)
   
   1.[Les boucles For](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20boucles%20For.md#boucles-for)
+  2.[Les boucles Foreach](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20boucles%20For.md#boucles-foreach)
