@@ -12,7 +12,7 @@
 * [Liste de quelques verbes utilisables](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20cmdlets.md#liste-de-quelques-verbes-utilisables)
 
 ### La structure des scripts
-* [Les variables](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20variables%20Powershell.md)
+* [Les variables](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20variables%20Powershell.md#les-variables-powershell)
 * [Les variables d'environnment](https://github.com/RonanF-lab/PowerShell/blob/main/Variables%20d'environnement.md)
 * [Les conditions](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md)
 * [Les boucles](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20boucles.md)
