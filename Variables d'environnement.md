@@ -29,9 +29,7 @@ PS C:\Windows\system32> $env:COMPUTERNAME
 
 DESKTOP-EMG1VR0 
 
-PS C:\Windows\system32> 
-
- $env:USERDOMAIN_ROAMINGPROFILE                                                                  
+PS C:\Windows\system32> $env:USERDOMAIN_ROAMINGPROFILE                                                                  
 
  DESKTOP-EMG1VR0 
 ````
