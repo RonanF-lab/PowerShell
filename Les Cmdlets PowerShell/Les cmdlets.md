@@ -48,3 +48,5 @@ Set-Date : modifie la date et l'heure système sur l'ordinateur en les remplaça
 ```
 Write-Warning : écrit un message d'avertissement sur l'hôte Windows PowerShell.
 ```
+
+- [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
