@@ -11,3 +11,5 @@ PS C:\Windows\system32> $MonPrénomAscii
 65
 78
 ```
+
+- [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
