@@ -1,6 +1,6 @@
 # Scripts de gestion des comptes utilisateurs
 
-### Pourquoi faire ? 
+## Pourquoi faire ? 
  
 Pour ce premier script le  but était de réaliser les actions suivantes
 
@@ -14,7 +14,7 @@ Pour ce premier script le  but était de réaliser les actions suivantes
 
 - de faire une recherche sur l'existence d'un utilisateur en particulier
 
-### Le script complet
+## Le script complet
 
 Pour que vous ayez une meilleure compréhension des différentes parties de mon code je les ai commenté et après vous avoir montré ça je vais vous montrer comment agissent les différents blocs en les exécutant.
 
