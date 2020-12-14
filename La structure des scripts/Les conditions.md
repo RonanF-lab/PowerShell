@@ -107,3 +107,5 @@ Bonjour
 ```
 
 Dans l’exemple que je viens de vous montrer le $texte de début n’est pas égale “Traduire Bonjour” mais à "Traduire Hola en français" comme précisé dans le ElseIf (sinon si) donc comme prévu on obtient Bonjour après exécution. 
+
+- [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
