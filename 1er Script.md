@@ -55,7 +55,7 @@ elseif ($choose -eq 5){
 ## Exemple exécution des différent blocs
 
 ### Premier bloc
-__Le premier bloc sert à demander dans la console quelle action l'utilisateur veut effectuer:__ 
+Le premier bloc sert à demander dans la console quelle action l'utilisateur veut effectuer:
 ```
 PS C:\Windows\system32> E:\Tp 1.ps1
 Voulez vous : 1 = créer un utilisateur, 2 = supprimer un utilisateur, 3 = modifier un utilisateur,
@@ -128,3 +128,4 @@ Name   Enabled Description
 azerty True               
 ```
 
+Comme je vous l'ai montré avec les différents blocs de ce code nous pouvons bien créer un utilisateur, le supprimer, le modifier, voir la liste de tous les utilisateurs et regarder les informations spécifiques sur un utilisateur spécifique.
