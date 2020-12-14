@@ -14,7 +14,7 @@ Pour ce premier script le  but était de réaliser les actions suivantes
 
 - de faire une recherche sur l'existence d'un utilisateur en particulier
 
-### Le code complet
+### Le script complet
 
 Pour que vous ayez une meilleure compréhension des différentes parties de mon code je les ai commenté et après vous avoir montré ça je vais vous montrer comment agissent les différents blocs en les exécutant.
 
@@ -128,4 +128,4 @@ Name   Enabled Description
 azerty True               
 ```
 
-__Comme je vous l'ai montré avec les différents blocs de ce code nous pouvons bien créer un utilisateur, le supprimer, le modifier, voir la liste de tous les utilisateurs et regarder les informations spécifiques sur un utilisateur spécifique.__
+__Comme je vous l'ai montré avec les différents blocs de ce script nous pouvons bien créer un utilisateur, le supprimer, le modifier, voir la liste de tous les utilisateurs et regarder les informations spécifiques sur un utilisateur spécifique.__
