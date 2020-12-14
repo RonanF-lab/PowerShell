@@ -43,3 +43,5 @@ PS C:\Windows\system32> $Tab = 6..9
 9
 ```
 Vous pouvez voir après exécution que les chiffres du tableau que nous avons définis de 2 à 6 ont bine été imprimmé.
+
+- [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
