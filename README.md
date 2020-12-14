@@ -16,11 +16,11 @@
 * [Les variables d'environnment](https://github.com/RonanF-lab/PowerShell/blob/main/Variables%20d'environnement.md#les-variables-denvrionnement)
 * [Les conditions](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#les-conditions)
  
-  1.[If](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#condition-if)
+  1.[Conditions If](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#condition-if)
   
-  2.[Else](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#condition-if--else)
+  2.[Conditions Else](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#condition-if--else)
   
-  3.[ElseIf](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#condition-if--elseif--else)
+  3.[Conditions ElseIf](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#condition-if--elseif--else)
   
 * [Les boucles](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20boucles%20For.md#les-boucles-for)
   
