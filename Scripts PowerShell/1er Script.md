@@ -129,3 +129,5 @@ azerty True
 ```
 
 __Comme je vous l'ai montré avec les différents blocs de ce script nous pouvons bien créer un utilisateur, le supprimer, le modifier, voir la liste de tous les utilisateurs et regarder les informations spécifiques sur un utilisateur spécifique.__
+
+C'est déjà fini ;( [Direction le sommaire ?](https://github.com/RonanF-lab/PowerShell/blob/main/README.md#sommaire)
