@@ -14,5 +14,5 @@
 ### La structure des scripts
 * [Les variables](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20variables%20Powershell.md#les-variables-powershell)
 * [Les variables d'environnment](https://github.com/RonanF-lab/PowerShell/blob/main/Variables%20d'environnement.md#les-variables-denvrionnement)
-* [Les conditions](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md)
+* [Les conditions](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20conditions.md#les-conditions)
 * [Les boucles](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20boucles.md)
