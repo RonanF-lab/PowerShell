@@ -4,9 +4,9 @@ __Pour ce premier script le  but était de réaliser les actions suivantes__
 
 __- de créer des utilisateurs__
 
-__- de modifier des utilisateurs__
-
 __- de supprimer des utilisateurs__
+
+__- de modifier des utilisateurs__
 
 __- de voir tous les utilisateurs__
 
