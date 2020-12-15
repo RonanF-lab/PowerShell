@@ -31,7 +31,7 @@ La boucle "foreach" est une instruction très couramment utilisée dans le langa
 
 __Exemple d'utilisation de boucles Foreach__
 
-Dans cette exemple grâce à Foreach nous allons pouvoir parcourir la fonction tableau et imprimé le tableau de chiffre qu'elle contient. 
+Dans cet exemple grâce à Foreach nous allons pouvoir parcourir la fonction tableau et imprimer le tableau de chiffre qu'elle contient. 
 ```
 PS C:\Windows\system32> $Tab = 6..9
 >> foreach ($ChiffreInTab in $Tab) {
