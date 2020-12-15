@@ -42,7 +42,7 @@ If($texte -eq "Traduire Bonjour")
 Hello 
 ```
 
-Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bien égale à "Traduire Bonjour". 
+Comme prévu le “Hello” a bien été imprimé car notre texte $texte est bien égal à "Traduire Bonjour". 
 
  
 
@@ -78,7 +78,7 @@ Dans le cas présent notre $texte n’est pas égale à celui dans notre conditi
 
 Dans l’exemple précédent nous agissons seulement dans le cas où $texte est égal à “Traduire Bonjour” et si ce n’est pas le cas avec le Else (sinon) nous renvoyons juste à “Traduction impossible”. 
 
-Mais avec le ElseIf (sinon si) nous allons pouvoir ajouter une deuxième possibilité ou si $texte est égale à “Traduire Holà en français” alors “Bonjour” pourra aussi être imprimé. 
+Mais avec le ElseIf (sinon si) nous allons pouvoir ajouter une deuxième possibilité ou si $texte est égal à “Traduire Holà en français” alors “Bonjour” pourra aussi être imprimé. 
 
 ```
 PS C:\Windows\system32> $texte = "Traduire Hola en français" 
