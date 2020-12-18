@@ -36,6 +36,14 @@
    II.[Le script complet](https://github.com/RonanF-lab/PowerShell/blob/main/Scripts%20PowerShell/1er%20Script.md#le-script-complet)
 
    III.[Exemple exécution des différents blocs](https://github.com/RonanF-lab/PowerShell/blob/main/Scripts%20PowerShell/1er%20Script.md#exemple-ex%C3%A9cution-des-diff%C3%A9rents-blocs)
+   
+### Les sources utiles
+* [Sources Le PowerShell c'est quoi ?](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20Le%20PowerShell%20c'est%20quoi%20%3F.md)
+* [Sources Cmdlets](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20Cmdlets.md)
+* [Sources Les variables PowerShell](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20Les%20variables%20PowerShell.md)
+* [Sources Variables d'environnement](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20Variables%20d'environnement.md)
+* [Sources conditions](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20conditions.md)
+* [Sources Les boucles For](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20Les%20boucles%20For.md)
 
 ### Avis sur le projet 
 __Pour moi ce projet a été plutôt bénéfique, il m'a permis de bien comprendre le PowerShell car pour le faire j'ai du faire un assez grand nombre de recherches et accumuler un grand nombre d'informations, ce qui permet de rentrer en profondeur dans plusieurs parties du sujet. Malgrès un début assez difficile à cause de problèmes personnels le sujet à réussi à me motiver et à passer outre mes soucis.__
