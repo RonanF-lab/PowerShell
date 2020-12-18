@@ -1,6 +1,6 @@
 # Le PowerShell
 ## Introdcution
-Ce projet a pour but de m'initier au PowerShell via la constitution d'un cours qui explique les différentes parties importantes qui le constituent. En vous présentant de quoi s'agit-il et comment a l'aide des différents outils qu'il intègre le PowerShell, que je vais vous expliquer, peut devenir pour vous quelque chose de très utile dans certaines de vos tâches récurrentes en informatiques.
+Ce projet a pour but de m'initier au PowerShell via la constitution d'un cours qui explique les différentes parties importantes qui le constituent. En vous présentant de quoi s'agit-il, comment a l'aide des différents outils qu'il intègre et que je vais vous expliquer, le PowerShell peut devenir pour vous quelque chose de très utile dans certaines de vos tâches récurrentes en informatiques.
 ## Sommaire
 
 
