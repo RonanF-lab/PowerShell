@@ -35,7 +35,7 @@
 
    II.[Le script complet](https://github.com/RonanF-lab/PowerShell/blob/main/Scripts%20PowerShell/1er%20Script.md#le-script-complet)
 
-   III.[Exemple exécution des différents blocs](https://github.com/RonanF-lab/PowerShell/blob/main/Scripts%20PowerShell/1er%20Script.md#exemple-ex%C3%A9cution-des-diff%C3%A9rents-blocs)
+   III.[Explications exécution des différents blocs](https://github.com/RonanF-lab/PowerShell/blob/main/Scripts%20PowerShell/1er%20Script.md#explications-ex%C3%A9cution-des-diff%C3%A9rents-blocs)
    
 ### Les sources utiles
 * [Sources Le PowerShell c'est quoi ?](https://github.com/RonanF-lab/PowerShell/blob/main/Les%20sources/Sources%20Le%20PowerShell%20c'est%20quoi%20%3F.md)
