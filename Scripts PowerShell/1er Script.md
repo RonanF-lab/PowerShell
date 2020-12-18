@@ -52,7 +52,7 @@ elseif ($choose -eq 5){
 }
 ```
 
-## Explication exécution des différents blocs
+## Explications exécution des différents blocs
 
 ### Premier bloc
 Le premier bloc sert à demander dans la console quelle action l'utilisateur veut effectuer:
